@@ -22,6 +22,9 @@ Evaluation methods such as Jaccard Index and F1-Score will be used to assess the
 ## References
 ----------------------------------
 [1] Accident Severity Prediction Using data Mining Methods. S Ramya et al; International Journal of Scientific Research in Computer Science, Vol 5, Issue 2, 2019
+
 [2] High-Resolution Road Vehicle Collision Prediction for the City of Montreal, Antoine H'ebert et al, Preprint, 2019
+
 [3] After personal research on the web.
+
 [4] Ibero American Report for Traffic Safety, 2015,2016, In Spanish.
